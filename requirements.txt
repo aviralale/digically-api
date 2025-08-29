@@ -5,6 +5,8 @@ charset-normalizer==3.4.3
 cryptography==45.0.6
 defusedxml==0.7.1
 Django==5.2.5
+django-cors-headers==4.7.0
+django-filter==25.1
 djangorestframework==3.16.1
 djangorestframework_simplejwt==5.5.1
 djoser==2.3.3
@@ -21,3 +23,4 @@ social-auth-core==4.7.0
 sqlparse==0.5.3
 tzdata==2025.2
 urllib3==2.5.0
+whitenoise==6.9.0
